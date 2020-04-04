@@ -1,6 +1,7 @@
 # Curso-de-Python
-Son archivos donde he practicado Python desde el inicio, pueden clonarlos y usarlos para practicar Python y tambien para que se ayuden si recién inician
-en este poderoso lenguaje
+Son archivos donde he practicado Python desde el inicio, pueden clonarlos y usarlos para practicar Python y tambien para que se ayuden si recién inician en este poderoso lenguaje. 
+
+![](https://logodownload.org/wp-content/uploads/2019/10/python-logo-1.png)
 
 ## Python
 Python es un lenguaje de programación interpretado cuya filosofía hace hincapié en la legibilidad de su código.​ Se trata de un lenguaje de programación multiparadigma, ya que soporta orientación a objetos, programación imperativa y, en menor medida, programación funcional.
