@@ -9,6 +9,7 @@ number_grid = [
 print(number_grid[2][1])
 
 # imprimir los numeros en orden
-for row in number_grid:
-    for col in row:
-        print(col)
+for x in number_grid:  # para cada fila en la matriz
+    print('fila: '+str(x))
+    for y in x:  # para cada columna en cada fila
+        print("columna: "+str(y))
